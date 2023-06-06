@@ -1,0 +1,38 @@
+.gradient-custom {
+    background: #ffffff5b;
+    background: -webkit-linear-gradient(to right, rgba(255, 255, 255, 0.312), rgba(255, 236, 210, 0.373));
+    background: linear-gradient(to right, rgba(255, 255, 255, 0.319), rgba(255, 236, 210, 0.292))
+    }
+    
+    .carousel-indicators li {
+    background-color: #282828;
+    width: 7px;
+    height: 7px;
+    border-radius: 50%;
+    }
+
+body{
+    
+    background-image:url('https://media.newyorker.com/photos/61e883ef0996b216027f9a37/16:9/w_3679,h_2069,c_limit/titlescreen_dusk_animated.gif');
+    background-repeat:no-repeat;
+    background-size:calc(100%);
+    background-size: cover;
+
+  
+}
+
+.card:hover{
+   
+    cursor: pointer;
+    
+}
+
+#heading1{
+    /* font-family: 'Bruno Ace SC', cursive; */
+
+    /* font-family: 'Castoro Titling', cursive; */
+
+    /* font-family: 'Gloria Hallelujah', cursive; */
+
+    font-family: 'Josefin Sans', sans-serif;
+}
